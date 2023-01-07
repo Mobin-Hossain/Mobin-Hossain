@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center"> Hi I'm Md. Mainul Islam </h1>
+<h1 align="center"> Hi I'm Mobin Hossain Shohan </h1>
 <h2 align="center">  💻  Data Analyst | ⌨️ Data Science Enthusiast | ⌨️ Research Enthusiast </h2>
 
 <!--
