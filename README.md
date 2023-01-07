@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h1 align="center"> Hi I'm Md. Mainul Islam </h1>
+<h2 align="center">  💻  Data Analyst | ⌨️ Data Science Enthusiast | ⌨️ Research Enthusiast </h2>
+
 <!--
 **Mobin-Hossain/Mobin-Hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<h1 align="center"> Hi I'm Md. Mainul Islam </h1>
-
-<h2 align="center">  💻  Data Analyst | ⌨️ Data Science Enthusiast | ⌨️ Research Enthusiast </h2>
 <!-- | ✨ Bangladesh  -->
  
 <!-- - 🔭 I’m currently working on --- Tempus.Capital as Technical Team Lead(Web, Mobile, Blockchain, Web3, NFT).
