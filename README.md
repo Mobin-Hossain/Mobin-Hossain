@@ -43,11 +43,10 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8B3zOPJmPuy9WT984AxrX7xGnof5c0_BvkCCZLC26Fhng2MuIsuVZbPWQ_1lOR5zkFbE&usqp=CAU" />
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" />
-<img align="left" alt="CSS3" width="26px" src="https://www.prismtc.co.uk/media/1736/minitab_600x400.jpg" />
-<img align="left" alt="Sass" width="26px" src="https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/spss.png?itok=WRGLy6VY" />
-<img align="left" alt="JavaScript" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirHxQzoWPUFgJlbSq2gVRsXZjZ_cxygZL7OKlpKk5DI_rWHQf4gGOFh_BKjKax2wb7OY&usqp=CAU" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8B3zOPJmPuy9WT984AxrX7xGnof5c0_BvkCCZLC26Fhng2MuIsuVZbPWQ_1lOR5zkFbE&usqp=CAU" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" />
+<img align="left" alt="CSS3" width="40px" src="https://www.prismtc.co.uk/media/1736/minitab_600x400.jpg" />
+<img align="left" alt="Sass" width="40px" src="https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/spss.png?itok=WRGLy6VY" />
 <img align="left" alt="JavaScript" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirHxQzoWPUFgJlbSq2gVRsXZjZ_cxygZL7OKlpKk5DI_rWHQf4gGOFh_BKjKax2wb7OY&usqp=CAU" />
 
 
@@ -59,4 +58,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-Hossain&langs_count=14&hide=php,html,java,objective-c,shell,powershell,ruby,starlark&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/>
 <!-- ![Profile views](https://gpvc.arturio.dev/Mobin-Hossain)   -->
--->
